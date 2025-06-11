@@ -21,3 +21,5 @@ async function makeNetworkCall() {
             console.log('Error is', err);
             })*/
 }
+
+export default makeNetworkCall;
